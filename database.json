@@ -1,6 +1,7 @@
 {
-    "players": [],
-    "teams": [],
-    "tournament": {},
-    "auction": {}
+  "players": [],
+  "teams": [],
+  "matches": [],
+  "tournaments": [],
+  "auctions": []
 }
